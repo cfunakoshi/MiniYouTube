@@ -1,0 +1,11 @@
+----------------------------------------------------------------
+Tue Apr 19 12:53:50 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.7.1.1 - (1040133): instance a816c00e-0154-2f71-39b0-0000035584b8 
+on database directory I:\15162-CSC480A\CHEYNEFUNAKOSHI_2016\MiniYouTube\MiniYouTube  with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
+Loaded from file:/I:/15162-CSC480A/CHEYNEFUNAKOSHI_2016/MiniYouTube/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_66-b18
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Apr 19 12:53:51 EDT 2016:
+Shutting down instance a816c00e-0154-2f71-39b0-0000035584b8 on database directory I:\15162-CSC480A\CHEYNEFUNAKOSHI_2016\MiniYouTube\MiniYouTube with class loader sun.misc.Launcher$AppClassLoader@4e0e2f2a 
